@@ -1,0 +1,13 @@
+#!/bin/bash
+
+states=('Kentucky', 'Georgia', 'Hawaii', 'Florida', 'California')
+
+for states in ${states[@]};
+do
+	if [ $states = 'Hawaii' ];  
+	then 
+		echo "Hawaii is the best"
+	else 
+		echo "I'm not fond of Hawaii"
+	fi
+done
