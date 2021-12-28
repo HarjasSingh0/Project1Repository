@@ -4,7 +4,7 @@ This repository contains the files I need to submit for project 1.
 
 The files in this repository were used to configure the network depicted below.
 
-/c/Users/Harjas Singh/Project1Repository/Diagrams
+![image](https://user-images.githubusercontent.com/86083871/147609309-f4e291a3-56a0-4be5-bfa2-5c57d2b4a331.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the yml file may be used to install only certain pieces of it, such as Filebeat.
 
